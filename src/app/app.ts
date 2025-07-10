@@ -9,4 +9,9 @@ import { RouterOutlet } from '@angular/router';
 })
 export class App {
   protected title = 'basic-app';
+  name = 'Bishnupada Kamila';
+  hello(){
+    let x=20;
+    
+  }
 }
